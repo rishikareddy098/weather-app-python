@@ -1,5 +1,3 @@
-# Weather App (Console)
-
 ## Description
 A Python console application that retrieves real-time weather information using the OpenWeatherMap API.
 
@@ -22,4 +20,3 @@ py -m pip install requests
 ## Run
 ```bash
 py weather_app.py
-```
